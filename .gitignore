@@ -1,0 +1,42 @@
+# ## Vivado/Xilinx General
+# Ignore the project file itself. It's user-specific and generated from scripts.
+*.xpr
+*.xpr.pb
+
+# Ignore the entire local project directory created by Vivado
+.Xil/
+
+# Ignore log and journal files
+*.log
+*.jou
+
+# Ignore generated reports
+*.rpt
+*.pb
+
+# Ignore WebTalk usage statistics files
+webtalk*.xml
+webtalk*.tcl
+
+# ## Build Artifacts
+# Ignore all synthesis, implementation, and simulation run results
+.runs/
+*.runs/
+
+# Ignore the project cache
+.cache/
+
+# Ignore generated IP files. We track the .tcl scripts to regenerate them instead.
+.ip_user_files/
+
+# Ignore SDK/Vitis workspace and project files if you use them
+.metadata/
+*.sdk/
+*_sdk/
+*_bsp/
+
+# ## Windows/Editor specific
+# Ignore common Windows and editor temp files
+.vs/
+*.swp
+*~
