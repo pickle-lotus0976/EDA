@@ -16,31 +16,6 @@ This repository serves as a personal portfolio and learning log for various FPGA
 
 The repository is organized as a monorepo, with each project in its own directory:
 
-Of course. Here is a professional and beginner-friendly `README.md` template tailored for your multi-project repository. It's written in Markdown—just copy and paste this content into a new file named `README.md` in your main `FPGA_Designs/` folder.
-
-The sections marked with \`\` are comments to guide you on what to fill in.
-
------
-
-```markdown
-# My Vivado RTL Design Collection
-
-![FPGA Banner](https://img.shields.io/badge/FPGA-Vivado%20Designs-blue.svg)
-![Language](https://img.shields.io/badge/Language-Verilog-green.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-
-A collection of my introductory digital logic and RTL design projects, implemented using Verilog and targeting AMD FPGAs with the Vivado Design Suite.
-
----
-
-## 📖 About This Repository
-
-This repository serves as a personal portfolio and learning log for various FPGA designs. Each top-level folder contains a distinct, self-contained Vivado project. The focus is on creating clean, reproducible, and well-documented hardware designs.
-
-### Directory Structure
-
-The repository is organized as a monorepo, with each project in its own directory:
-
 ```
 .
 ├── .gitignore          \# Ignores Vivado's generated files
@@ -103,7 +78,6 @@ These projects are designed to be fully reproducible from the source files using
 
     For the **Full Adder** project:
     ```tcl
-    # (Assuming you created a build script for it)
     source ./full_adder/scripts/build_project.tcl 
     ```
 
