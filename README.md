@@ -8,22 +8,21 @@ A collection of my introductory digital logic and RTL design projects, implement
 
 ---
 
-## 📖 About This Repository
+## About This Repository
 
 This repository serves as a personal portfolio and learning log for various FPGA designs. Each top-level folder contains a distinct, self-contained Vivado project. The focus is on creating clean, reproducible, and well-documented hardware designs.
 
 ### Directory Structure
 
----
-
 The repository is organized as a monorepo, with each project in its own directory.
 
-## 🛠️ Required Toolchain
+## What I used:
 
-To work with these projects, needed the following software installed:
+To work with these projects, I needed the following software installed:
 
 **FPGA Synthesis Tool: AMD Vivado 2025.1 Standard ML Edition**
 
+---
 
 **Version Control: Git**
 
@@ -34,6 +33,6 @@ To work with these projects, needed the following software installed:
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
