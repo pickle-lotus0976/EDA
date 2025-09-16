@@ -25,7 +25,7 @@ To work with these projects, needed the following software installed:
 **FPGA Synthesis Tool: AMD Vivado 2025.1 Standard ML Edition**
 
 
-**Version Control: [Git]**
+**Version Control: Git**
 
 | Tool         | Version   | Operating System |
 |--------------|-----------|------------------|
