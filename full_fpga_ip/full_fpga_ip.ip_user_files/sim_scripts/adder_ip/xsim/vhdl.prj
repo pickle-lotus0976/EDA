@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../full_fpga_ip.gen/sources_1/ip/adder_ip/sim/adder_ip.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/LENOVO/EDA/full_fpga_ip/full_fpga_ip.gen/sources_1/ip/adder_ip/sim/adder_ip.vhd,1758139219,vhdl,,,,adder_ip,,,,,,,,
+C:/Users/LENOVO/EDA/full_fpga_ip/full_fpga_ip.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/LENOVO/EDA/full_fpga_ip/full_fpga_ip.srcs/sim_1/new/stimuli.v,1758140248,verilog,,,,stimuli,,,../../../../../../../../FPGA_Dev/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/LENOVO/EDA/full_fpga_ip/full_fpga_ip.srcs/sources_1/new/newadder.v,1758139451,verilog,,C:/Users/LENOVO/EDA/full_fpga_ip/full_fpga_ip.srcs/sim_1/new/stimuli.v,,newadder,,,../../../../../../../../FPGA_Dev/2025.1/Vivado/data/rsb/busdef,,,,,

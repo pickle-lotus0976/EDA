@@ -1,0 +1,1 @@
+adder_ip.vhd,vhdl,xil_defaultlib,../../../../full_fpga_ip.gen/sources_1/ip/adder_ip/sim/adder_ip.vhd,incdir="../../../../../../../../FPGA_Dev/2025.1/Vivado/data/rsb/busdef"
